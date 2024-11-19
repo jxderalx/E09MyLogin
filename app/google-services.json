@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979989901552",
+    "project_id": "e09mylogin",
+    "storage_bucket": "e09mylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979989901552:android:85520c06bdab0768f61235",
+        "android_client_info": {
+          "package_name": "com.example.e09mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979989901552-of8umnalrlfhssm6jfe76lelglc45vrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e09mylogin",
+            "certificate_hash": "2798134ea83f77d8271387a3934767aed29d80f8"
+          }
+        },
+        {
+          "client_id": "979989901552-a0hojhqh3relj7hgkggf33oiq0mvodb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpxfn3TaSfKrvj9KMaVbh7E9qIwHDw9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979989901552-a0hojhqh3relj7hgkggf33oiq0mvodb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
